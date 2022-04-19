@@ -1,2 +1,2 @@
 ### config.json
-Windows Path: %APPDATA%\..\LocalLow\VRChat\VRChat
+Windows Path: %APPDATA%\..\LocalLow\VRChat\VRChat  
